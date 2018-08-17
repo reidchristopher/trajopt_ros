@@ -9,17 +9,48 @@ Welcome to the Trajopt ROS wiki
 
 .. Warning:: These packages are under heavy development and are subject to change.
 
-
-Packages
-------------
+General Information
+-------------------
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
+   
+   General Info <_source/general_info/index.rst>
 
-   trajopt <_source/trajopt_doc.rst>
-   trajopt_examples <_source/trajopt_examples_doc.rst>
-   trajopt_sco <_source/trajopt_sco_doc.rst>
-   trajopt_utils <_source/trajopt_utils_doc.rst>
+Packages
+--------
+
+trajopt
+~~~~~~~
+
+.. toctree::
+   :maxdepth: 2
+
+   trajopt <_source/trajopt/index.rst>
+   
+trajopt_examples
+~~~~~~~~~~~~~~~~
+
+.. toctree::
+   :maxdepth: 2
+    
+   trajopt_examples <_source/trajopt_examples/index.rst>
+   
+trajopt_sco
+~~~~~~~~~~~
+
+.. toctree::
+   :maxdepth: 2
+
+   trajopt_sco <_source/trajopt_sco/index.rst>
+   
+trajopt_utils
+~~~~~~~~~~~~~
+
+.. toctree::
+   :maxdepth: 2
+    
+   trajopt_utils <_source/trajopt_utils/index.rst>
 
 FAQ
 ---
